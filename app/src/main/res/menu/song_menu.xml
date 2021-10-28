@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id = "@+id/action_search"
+        android:icon = "@drawable/ic_search"
+        android:title= "Search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.SearchView" />
+
+    <item android:id = "@+id/ratingLowHigh"
+        android:title= "Sort by rating (low to high)"
+        app:showAsAction="never" />
+
+    <item android:id = "@+id/ratingHighLow"
+        android:title= "Sort by rating (high to low)"
+        app:showAsAction="never" />
+</menu>

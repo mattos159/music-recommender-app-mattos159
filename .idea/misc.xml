@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bazzicosmic.xml" value="0.27760416666666665" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.4077206762562514" />
+        <entry key="app/src/main/res/layout/activity_list.xml" value="0.27258622388668236" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2096133697321278" />
+        <entry key="app/src/main/res/layout/list_view.xml" value="0.3539318612445474" />
+        <entry key="app/src/main/res/menu/song_menu.xml" value="0.27696308660017227" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
